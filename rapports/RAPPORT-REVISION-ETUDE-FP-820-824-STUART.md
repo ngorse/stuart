@@ -42,7 +42,7 @@ Le présent document a pour objectif de soumettre au cabinet Mon Génie en Bâti
 - L'**étude du fonds de prévoyance** du 10 février 2026 (Guillaume Giraud, ing., OIQ 5001636) ;
 - La **police d'assurance** Desjardins (GC088210, en vigueur du 2026-04-05 au 2027-04-05).
 
-Cette analyse vise à obtenir une **mise à jour formelle de l'étude du fonds de prévoyance** intégrant les corrections et ajouts documentés ci-après, conformément aux exigences de la Loi 16 (CCQ 1070.2, 1071 al. 2 et al. 3).
+Cette analyse vise à soumettre des **informations complémentaires** et des **propositions d'ajustement** en vue d'une mise à jour de l'étude du fonds de prévoyance, conformément aux exigences de la Loi 16 (CCQ 1070.2, 1071 al. 2 et al. 3). Les propositions qui suivent sont soumises à l'évaluation professionnelle de l'ingénieur responsable de l'étude.
 
 ---
 
@@ -66,7 +66,9 @@ L'analyse croisée des documents révèle **trois catégories d'écarts** :
 
 **A. Déficiences du rapport d'inspection non intégrées au plan de maintien**
 
-Le rapport d'inspection identifie **63 items** dont 10 expertises recommandées, 18 correctifs requis et 9 interventions immédiates. Or, le plan de maintien (Annexe B) est construit exclusivement sur les **cycles de vie théoriques** des composantes selon la norme Uniformat II. **Aucune des corrections recommandées dans le rapport d'inspection n'est budgétée** dans le plan de maintien ni dans l'étude du fonds de prévoyance. Parmi les items les plus critiques non budgétés : les analyses d'amiante potentielle, l'absence d'avertisseurs d'incendie dans les aires communes, les traces de moisissures, les solives compromises et l'absence de garde-corps.
+Le rapport d'inspection identifie **37 déficiences nécessitant une intervention** (10 expertises recommandées, 18 correctifs requis et 9 interventions immédiates), en plus de 12 limitations d'accès, 5 informations générales et 7 constats sans déficience. Le plan de maintien (Annexe B) est construit sur les **cycles de vie théoriques** des composantes selon la norme Uniformat II. À l'exception de l'injection des fissures de fondation (A1010), **les corrections recommandées dans le rapport d'inspection ne figurent pas** dans le plan de maintien ni dans l'étude du fonds de prévoyance. Parmi les items les plus significatifs non budgétés : les analyses de matériaux pouvant contenir de l'amiante, l'absence d'avertisseurs d'incendie dans les aires communes, les traces de moisissures, les solives compromises et l'absence de garde-corps.
+
+Nous comprenons que la méthodologie de l'étude du fonds de prévoyance (CCQ 1071) porte sur les **réparations majeures et remplacements** des parties communes, et que les petits correctifs relèvent du carnet d'entretien. Cependant, plusieurs des items identifiés constituent des réparations majeures (drain français, chaudière, plomberie, maçonnerie) ou ont un impact direct sur le coût des travaux futurs (amiante).
 
 **B. Composantes absentes de l'inventaire**
 
@@ -74,7 +76,7 @@ La **chaudière** (bouilloire au gaz naturel) est complètement absente de l'inv
 
 **C. Dépenses erronées dans le plan de maintien**
 
-Le remplacement de la totalité des **fenêtres PVC** est planifié pour 2026 au coût de 40 304 $. Or, les fenêtres du rez-de-chaussée ont été **remplacées en 2022** et les fenêtres des étages supérieurs ne présentent pas de déficiences critiques selon le rapport d'inspection.
+Le remplacement de la totalité des **fenêtres PVC** est planifié pour 2026 au coût de 40 304 $. Le syndicat souhaite porter à votre attention que les fenêtres du rez-de-chaussée ont été **remplacées en 2022** — une information qui n'avait pas été communiquée lors du mandat d'inspection (l'onglet Historique du fichier Excel est resté vide à cet effet). Les fenêtres des étages supérieurs ne présentent pas de déficiences critiques selon le rapport d'inspection.
 
 **D. Enjeux de sécurité, de conformité réglementaire et d'assurance**
 
@@ -116,7 +118,7 @@ Le cycle de remplacement de 2061 (2e cycle) devrait être ajusté en conséquenc
 
 ### 4.2 Dépenses à ajouter : déficiences du rapport d'inspection
 
-Les items suivants sont documentés dans le rapport d'inspection MGB mais absents du plan de maintien :
+Les items suivants sont documentés dans le rapport d'inspection MGB et pourraient, selon notre analyse, justifier une intégration au plan de maintien (réparations majeures) ou au carnet d'entretien (correctifs mineurs). Nous les soumettons à votre évaluation professionnelle :
 
 | Réf. rapport | Déficience | Travaux requis | Année | Coût estimé |
 |---|---|---|---|---|
@@ -159,9 +161,9 @@ Les items suivants sont documentés dans le rapport d'inspection MGB mais absent
 | Présence dans le plan de maintien (Annexe B) | **Absente** |
 | Présence dans l'étude du fonds de prévoyance | **Absente** |
 
-Nous recommandons l'ajout de la chaudière à l'inventaire avec :
+Sous réserve de confirmation que la chaudière constitue une partie commune (à valider avec la déclaration de copropriété), nous recommandons son ajout à l'inventaire avec :
 - Vérification par chauffagiste licencié : 2027 (450 $)
-- Provision pour remplacement : 2028 (14 000 $)
+- Provision pour remplacement conditionnel : 2028 (14 000 $)
 
 ### 4.4 Dépense à ajouter : drain français
 
@@ -174,13 +176,13 @@ Nous recommandons l'ajout de la chaudière à l'inventaire avec :
 | Justification — fondation | Fissures multiples, effritement du béton, ouvertures non scellées |
 | Statut | **Confirmé.** Projet conjoint avec la copropriété qui occupe l'autre partie du bâtiment. |
 
-Le drain français ne figure ni dans le plan de maintien ni dans l'étude du fonds de prévoyance. Pourtant, c'est une intervention fondamentale pour un bâtiment de 1928 avec des fondations en béton coulé présentant des fissures et un effritement significatifs.
+Le drain français ne figure ni dans le plan de maintien ni dans l'étude du fonds de prévoyance. Nous reconnaissons qu'il s'agit d'une **nouvelle installation** et non d'un remplacement au sens strict du CCQ 1071. Toutefois, cette intervention a un impact direct sur la planification financière du fonds et sur la pérennité des fondations. Nous demandons qu'elle soit intégrée à la modélisation financière, même si elle est comptabilisée séparément des réparations majeures au sens de la loi.
 
 ### 4.5 Ajustements aux provisions existantes
 
 | Item MGB | Provision MGB | Provision recommandée | Justification |
 |---|---|---|---|
-| D2090 — Plomberie (2027) | 314 $ | 5 500 $ | Conduites de fonte d'origine (1928) en fin de vie utile. La provision de 314 $ est insuffisante pour une intervention réelle. |
+| D2090 — Plomberie (2027) | 314 $ (provision récurrente aux 6 ans) | 5 500 $ (intervention ciblée 2027) | Nous comprenons la méthodologie de provisions récurrentes. Toutefois, le rapport d'inspection documente des conduites de fonte d'origine (1928) approchant la fin de leur vie utile (p. 27). Nous proposons qu'une intervention ciblée plus substantielle soit prévue dès 2027. |
 | D5010 — Électricité (2032) | 435 $ | 10 000 $ (2028) | L'audit documente du câblage apparent, un luminaire avec fils exposés et des ampoules sans protection. L'évaluation et la correction doivent précéder 2032. |
 | G2040 — Clôtures (2026) | 940 $ | 750 $ (2027) | Report d'un an pour concentrer le budget 2026 sur les interventions prioritaires. |
 
@@ -204,11 +206,11 @@ MGB juge elle-même ce scénario non conforme. Il est présenté à titre illust
 
 | Paramètre | Valeur | Évaluation |
 |---|---|---|
-| Groupe de contributeurs | **Garage uniquement** | Ne couvre pas l'ensemble du bâtiment |
-| Contribution annuelle | 1 120 $ | Pour le garage seulement |
-| Total dépenses | 30 285 $ | Terrasses sur toit + porte de garage uniquement |
+| Groupe de contributeurs | Garage uniquement | Parties communes à usage restreint |
+| Contribution annuelle | 1 120 $ | Pour le groupe Garage |
+| Total dépenses | 30 285 $ | Terrasses sur toit + porte de garage |
 
-Ce scénario ne s'applique qu'au groupe « Garage » et ne représente pas la situation financière globale du fonds de prévoyance. Il ne devrait pas être présenté comme une alternative au scénario 1 sans cette mise en contexte.
+Nous comprenons que ce scénario est présenté séparément conformément à la méthodologie de groupes de contributeurs. Pour la suite de notre analyse, nous nous concentrons sur le scénario 3 qui couvre l'ensemble des parties communes.
 
 ### 5.3 Scénario 3 — Correction immédiate (Ensemble)
 
@@ -221,21 +223,21 @@ Ce scénario ne s'applique qu'au groupe « Garage » et ne représente pas la si
 | Total dépenses | 323 419 $ | Basé sur plan incomplet |
 | Solde maximal | 240 791 $ | Surplus excessif (reconnu par MGB) |
 
-**Problèmes identifiés :**
-- La contribution spéciale de 18 169 $/unité en 2026 est disproportionnée
-- Les dépenses sous-jacentes ne reflètent pas les besoins réels (fenêtres erronées, chaudière absente, drain absent)
-- Le surplus de 240 791 $ est excessif pour un syndicat de 3 unités
+**Observations :**
+- La contribution spéciale de 18 169 $/unité en 2026 représente un fardeau financier important que le syndicat souhaite optimiser par un ajustement du plan de dépenses sous-jacent
+- Le plan de dépenses pourrait être ajusté pour mieux refléter l'état réel du bâtiment (informations complémentaires sur les fenêtres, composantes à ajouter)
+- MGB reconnaît elle-même que le scénario nécessite une réévaluation future pour limiter le surplus budgétaire
 
 ### 5.4 Problème commun aux trois scénarios
 
-Les trois scénarios reposent sur le **même plan de dépenses** (Annexe B), qui :
-1. Inclut 40 304 $ de fenêtres PVC non nécessaires en 2026
-2. Omet ~73 800 $ de travaux identifiés dans le rapport d'inspection
-3. Omet la chaudière de l'inventaire et du plan
-4. Omet le drain français
-5. Sous-estime les provisions plomberie et électricité
+Les trois scénarios reposent sur le même plan de dépenses (Annexe B). À la lumière des informations complémentaires fournies par le syndicat et de l'analyse croisée avec la police d'assurance, nous proposons les ajustements suivants au plan de dépenses :
+1. **Retirer** 40 304 $ de fenêtres PVC (information complémentaire : rez-de-chaussée remplacé en 2022)
+2. **Ajouter** les réparations majeures découlant du rapport d'inspection (voir section 4.2)
+3. **Ajouter** la chaudière à l'inventaire (composante non répertoriée malgré les anomalies documentées)
+4. **Intégrer** le drain français dans la planification financière (projet confirmé par le syndicat)
+5. **Réévaluer** les provisions plomberie et électricité au regard de l'état documenté
 
-**Toute mise à jour des scénarios doit d'abord corriger le plan de dépenses sous-jacent.**
+**Nous souhaitons que la mise à jour des scénarios intègre ces ajustements au plan de dépenses.**
 
 ---
 
@@ -303,7 +305,7 @@ Le rapport d'inspection constitue une **documentation formelle des déficiences*
 
 ### 7.3 Implication pour le plan de maintien
 
-**Toutes les déficiences ci-dessus doivent être intégrées au plan de maintien et budgétées dans l'étude du fonds de prévoyance.** L'absence de budget pour ces corrections expose le syndicat à un double risque : le sinistre lui-même et le refus d'indemnité.
+Le syndicat estime que les déficiences ci-dessus justifient une intégration au plan de maintien ou au carnet d'entretien, selon leur nature. Les items qualifiés de réparations majeures devraient être budgétés dans l'étude du fonds de prévoyance. Les correctifs mineurs relèvent du carnet d'entretien. Dans les deux cas, l'absence de planification expose le syndicat à un double risque : le sinistre lui-même et un refus ou une réduction d'indemnité par l'assureur.
 
 ---
 
@@ -332,7 +334,7 @@ Le plan révisé adopte une **approche conservatrice** : seuls les items **oblig
 | **Vitre brisée (remplacement)** | ASSURANCE (Art. 1.2, brèche enveloppe) | 300 $ |
 | **Expertise moisissures** (laboratoire) | LOI (santé/sécurité occupants) + ASSURANCE (excl. 6.F) | 3 000 $ |
 | **Expertise structurale** (solives) | LOI (sécurité structurale) + ASSURANCE (excl. 6.H) | 2 500 $ |
-| **Analyses amiante** (cage escalier + plafonds sous-sol) | LOI (RSST — obligatoire avant tout travail de rénovation au sous-sol) | 3 000 $ |
+| **Analyses amiante** (cage escalier + plafonds sous-sol) | LOI (RSST — obligatoire avant les travaux planifiés au sous-sol : injection fissures, plomberie) | 3 000 $ |
 | **Injection fissures fondation** | ASSURANCE (Art. 3.6, infiltration documentée) + Plan MGB conservé | 5 500 $ |
 | **Calfeutrage ouvertures** | ASSURANCE (Art. 3.6, joints absents documentés) + Plan MGB conservé | 4 860 $ |
 | **Chapeau cheminée + tablette** | ASSURANCE (ouverture non protégée = pénétration d'eau exclue) | 850 $ |
@@ -511,7 +513,7 @@ Le scénario conservateur réduit le fardeau de la première année de **64 %** 
 
 ## 11. DEMANDE DE MISE À JOUR FORMELLE
 
-Conformément aux exigences de la Loi 16 (CCQ 1071 al. 2 et al. 3), le SDC des 820 à 824 Stuart demande à MGB Québec de produire une **version 2.0 de l'étude du fonds de prévoyance** intégrant les modifications suivantes :
+Le SDC des 820 à 824 Stuart souhaite discuter avec MGB Québec de la possibilité de produire une **mise à jour de l'étude du fonds de prévoyance** intégrant les informations complémentaires et les propositions d'ajustement suivantes :
 
 ### 11.1 Modifications à l'inventaire des composantes (Annexe A)
 
@@ -520,16 +522,15 @@ Conformément aux exigences de la Loi 16 (CCQ 1071 al. 2 et al. 3), le SDC des 8
 
 ### 11.2 Modifications au plan de maintien (Annexe B)
 
-1. **Retirer** le remplacement des fenêtres PVC de 2026 (40 304 $)
-2. **Ajouter** les 28 items documentés dans le rapport d'inspection (voir section 4.2)
-3. **Ajouter** le drain français (15 000 $, 2026)
-4. **Ajouter** la vérification (2027) et le remplacement conditionnel (2028) de la chaudière
-5. **Ajouter** les analyses d'amiante (3 000 $, 2026) — obligation légale avant toute rénovation au sous-sol/cage escalier
-6. **Ajouter** les avertisseurs d'incendie dans les aires communes (1 000 $, 2026) — obligation réglementaire + art. 12 assurance
-7. **Ajouter** le garde-corps et la main courante manquants (1 500 $, 2026) — sécurité + RC
-8. **Ajuster** les provisions plomberie (D2090) et électricité (D5010)
-9. **Reporter** le remplacement des fenêtres PVC à 2035+ (étages) et 2037+ (RC)
-10. **Reporter** la peinture des clôtures (G2040) de 2026 à 2027
+1. **Retirer** le remplacement des fenêtres PVC de 2026 (40 304 $) — information complémentaire : rez-de-chaussée remplacé en 2022
+2. **Évaluer** l'intégration des réparations majeures documentées dans le rapport d'inspection (voir section 4.2)
+3. **Intégrer** le drain français dans la planification financière (15 000 $, 2026) — projet confirmé par le syndicat
+4. **Évaluer** l'ajout de la chaudière à l'inventaire (sous réserve de confirmation de son statut de partie commune)
+5. **Intégrer** les analyses d'amiante (3 000 $, 2026) — prérequis aux travaux planifiés au sous-sol
+6. **Évaluer** l'ajout des avertisseurs d'incendie (1 000 $, 2026) et du garde-corps manquant (1 500 $, 2026)
+7. **Réévaluer** les provisions plomberie (D2090) et électricité (D5010) au regard de l'état documenté
+8. **Reporter** le remplacement des fenêtres PVC à 2035+ (étages) et 2037+ (RC)
+9. **Reporter** la peinture des clôtures (G2040) de 2026 à 2027
 
 ### 11.3 Modifications au carnet d'entretien (Annexe C)
 
@@ -563,7 +564,7 @@ Les documents détaillés suivants accompagnent le présent rapport :
 
 ---
 
-*Le présent document a été préparé par le SDC des 820 à 824 Stuart à des fins de discussion avec MGB Québec. Il ne constitue pas une étude de fonds de prévoyance au sens de la Loi 16 et ne se substitue pas au travail de l'ingénieur. Le syndicat demande à MGB de valider, ajuster et formaliser les propositions contenues dans ce document dans une version mise à jour de l'étude.*
+*Le présent document a été préparé par le SDC des 820 à 824 Stuart à des fins de discussion avec MGB Québec. Il ne constitue pas une étude de fonds de prévoyance au sens de la Loi 16, ne se substitue pas au travail de l'ingénieur et ne remet pas en cause la compétence professionnelle de MGB. Le syndicat soumet ces informations complémentaires et propositions d'ajustement à l'évaluation professionnelle de l'ingénieur, en vue d'une éventuelle mise à jour de l'étude.*
 
 ---
 
