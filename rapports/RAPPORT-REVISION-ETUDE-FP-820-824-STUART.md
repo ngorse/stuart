@@ -16,20 +16,17 @@ Date : 27 mars 2026
 
 ---
 
-## TABLE DES MATIÈRES
+## INTRODUCTION
 
-1. [Objet du document](#1-objet-du-document)
-2. [Documents de référence](#2-documents-de-référence)
-3. [Résumé des constats](#3-résumé-des-constats)
-4. [Audit du plan de maintien MGB (Annexe B)](#4-audit-du-plan-de-maintien-mgb)
-5. [Audit de l'étude du fonds de prévoyance MGB](#5-audit-de-létude-du-fonds-de-prévoyance-mgb)
-6. [Audit du carnet d'entretien MGB (Annexe C)](#6-audit-du-carnet-dentretien-mgb)
-7. [Analyse des exigences d'assurance](#7-analyse-des-exigences-dassurance)
-8. [Proposition : plan de dépenses révisé](#8-proposition--plan-de-dépenses-révisé)
-9. [Proposition : carnet d'entretien révisé](#9-proposition--carnet-dentretien-révisé)
-10. [Proposition : scénario de fonds de prévoyance révisé](#10-proposition--scénario-de-fonds-de-prévoyance-révisé)
-11. [Demande de mise à jour formelle](#11-demande-de-mise-à-jour-formelle)
-12. [Annexes](#12-annexes)
+Le Syndicat de copropriété des 820 à 824 Stuart a mandaté le cabinet Mon Génie en Bâtiment (MGB Québec) pour la réalisation d'une inspection des parties communes et d'une étude du fonds de prévoyance, conformément aux exigences de la Loi 16 modifiant le Code civil du Québec en matière de copropriété divise.
+
+L'inspection a été réalisée le 15 décembre 2025 et l'étude du fonds de prévoyance a été livrée le 10 février 2026. À la réception de ces documents, le conseil d'administration du syndicat a procédé à une analyse approfondie en croisant les constats du rapport d'inspection avec le plan de maintien proposé, l'étude du fonds de prévoyance et la police d'assurance en vigueur.
+
+Cette analyse a permis d'identifier des **informations complémentaires** que le syndicat n'avait pas communiquées lors du mandat (notamment le remplacement des fenêtres du rez-de-chaussée en 2022), des **écarts entre le rapport d'inspection et le plan de maintien** (déficiences documentées mais non budgétées), et des **enjeux d'assurance** qui justifient la priorisation de certaines interventions.
+
+Le présent document soumet l'ensemble de ces constats et propositions à MGB Québec, dans un esprit de collaboration, en vue d'une éventuelle mise à jour de l'étude du fonds de prévoyance qui reflète au plus près la réalité du bâtiment et les besoins du syndicat.
+
+---
 
 ---
 
@@ -430,15 +427,15 @@ Les items suivants sont identifiés comme essentiels pour maintenir la conformit
 
 | Item | Phase | Impact assurance |
 |---|---|---|
-| Sécuriser luminaire / câblage exposé | 0 | Risque incendie documenté → aggravation du risque |
-| Installer cuvettes sous chauffe-eau | 0 | Absence documentée → manquement art. 3.6 |
-| Remplacer fenêtre contreplaqué | 1 | Brèche enveloppe → refus probable |
-| Colmater fissures fondation | 1 | Infiltration documentée → détérioration graduelle connue |
-| Calfeutrage fenêtres/portes | 1 | Joints absents documentés → infiltration connue |
-| Chapeau cheminée | 1 | Ouverture non protégée → pénétration d'eau exclue |
-| Protéger robinet extérieur | 2 | Robinet non antigel → risque gel documenté |
-| Vérifier clapet anti-retour | 2 | Clapet non testé → refoulement couvert à 100 000 $ |
-| Vérifier chaudière | 3 | Anomalies documentées → bris équipement couvert |
+| Sécuriser luminaire / câblage exposé | 0 | Risque incendie documenté -- aggravation du risque |
+| Installer cuvettes sous chauffe-eau | 0 | Absence documentée -- manquement art. 3.6 |
+| Remplacer fenêtre contreplaqué | 1 | Brèche enveloppe -- refus probable |
+| Colmater fissures fondation | 1 | Infiltration documentée -- détérioration graduelle connue |
+| Calfeutrage fenêtres/portes | 1 | Joints absents documentés -- infiltration connue |
+| Chapeau cheminée | 1 | Ouverture non protégée -- pénétration d'eau exclue |
+| Protéger robinet extérieur | 2 | Robinet non antigel -- risque gel documenté |
+| Vérifier clapet anti-retour | 2 | Clapet non testé -- refoulement couvert à 100 000 $ |
+| Vérifier chaudière | 3 | Anomalies documentées -- bris équipement couvert |
 | **Installer avertisseurs d'incendie** (aires communes) | 0 | Art. 12 — obligation de signaler tout défaut de détection incendie. Absence totale = manquement grave. |
 | **Installer garde-corps + main courante** | 0 | Exposition RC (Garantie A, 2 M$). Absence documentée = défense compromise. |
 | Remplacer vitre brisée | 0 | Brèche enveloppe, même enjeu que contreplaqué |
@@ -552,15 +549,15 @@ Produire un scénario basé sur :
 
 Les documents détaillés suivants accompagnent le présent rapport :
 
-| Annexe | Fichier | Description |
+| Annexe | Document | Description |
 |---|---|---|
-| A | `rapports/2-carnet-entretien-propose.md` | Carnet d'entretien révisé (phases, entretien récurrent, plan fenêtres) |
-| B | `rapports/2-carnet-entretien-propose.explications.md` | Comparaison détaillée carnet révisé vs plan MGB |
-| C | `rapports/3-audit-fonds-prevoyance.md` | Audit détaillé des 3 scénarios MGB et projection du scénario révisé |
-| D | `rapports/1-validation-assurance-copro.md` | Analyse complète de la couverture d'assurance vs déficiences |
-| E | `rapports/analyse-croisee-2026-03-26.md` | Rapport d'analyse croisée initial (audit, assurance, FP, copropriété) |
-| F | `copro-1.md` | Plan de travaux original de la copropriété |
-| G | `copro-2.md` | Plan de travaux révisé (version en vigueur) |
+| A | Annexe-A-Carnet-entretien-revise.pdf | Carnet d'entretien révisé (phases, entretien récurrent, plan fenêtres) |
+| B | Annexe-B-Comparaison-carnet-vs-MGB.pdf | Comparaison détaillée carnet révisé vs plan MGB |
+| C | Annexe-C-Audit-fonds-prevoyance.pdf | Audit détaillé des 3 scénarios MGB et projection du scénario révisé |
+| D | Annexe-D-Validation-assurance.pdf | Analyse complète de la couverture d'assurance vs déficiences |
+| E | Annexe-E-Analyse-croisee.pdf | Rapport d'analyse croisée initial (audit, assurance, FP, copropriété) |
+| F | Annexe-F-Plan-travaux-original.pdf | Plan de travaux original de la copropriété |
+| G | Annexe-G-Plan-travaux-revise.pdf | Plan de travaux révisé (version en vigueur) |
 
 ---
 

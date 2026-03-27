@@ -1,0 +1,21 @@
+---
+mainfont: "Helvetica Neue"
+monofont: "Menlo"
+fontsize: 11pt
+geometry: margin=2.5cm
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhead[L]{\small SDC des 820 à 824 Stuart}
+  - \fancyhead[R]{\small \thepage}
+  - \fancyfoot[C]{\small Confidentiel — Usage interne au syndicat}
+  - \renewcommand{\headrulewidth}{0.4pt}
+  - \renewcommand{\footrulewidth}{0.2pt}
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{xcolor}
+  - \definecolor{accent}{HTML}{2C5F7C}
+  - \usepackage{hyperref}
+  - \hypersetup{colorlinks=true,linkcolor=accent,urlcolor=accent}
+---
