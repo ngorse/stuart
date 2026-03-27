@@ -287,7 +287,7 @@ Soit **2 000 $/unité/an** (~167 $/mois/unité) en 2026, augmentant de 3 % par a
 1. **Convoquer une assemblée extraordinaire** (avril 2026) pour :
    - Voter la contribution spéciale de renflouement (~20 000 $/unité sur 3 ans)
    - Voter l'augmentation de la contribution annuelle au FP de 1 000 $ à 6 000 $/an
-   - Adopter le plan de dépenses révisé (copro-2.md)
+   - Adopter le plan de dépenses révisé (LISTE-COPRO-FINALE.md)
 
 2. **Demander à MGB (Guillaume Giraud, ing.) une mise à jour de l'étude** intégrant :
    - Le retrait des fenêtres PVC du plan 2026

@@ -162,6 +162,6 @@
 
 ---
 
-> **Note :** La liste de travaux correspondante se trouve dans **copro-2.md** (version en vigueur).
+> **Note :** La liste de travaux correspondante se trouve dans **LISTE-COPRO-FINALE.md** (version en vigueur).
 
 *Ce carnet d'entretien doit être tenu à jour conformément aux exigences de la Loi 16 (CCQ 1070.2). Toute intervention doit être documentée (date, description, coût, intervenant, photos avant/après) et conservée dans le registre du syndicat.*

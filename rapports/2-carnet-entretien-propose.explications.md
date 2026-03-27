@@ -1,7 +1,7 @@
 # Comparaison : Carnet proposé vs Plan MGB
 ## SDC des 820 à 824 Stuart | 27 mars 2026
 
-Ce document compare le carnet d'entretien proposé (`rapports/2-carnet-entretien-propose.md` / `copro-2.md`) avec le Plan de maintien et Carnet d'entretien de MGB (`documents-audit-mgb/Plan de maintien et Carnet d'entretien.xlsx`).
+Ce document compare le carnet d'entretien proposé (`rapports/2-carnet-entretien-propose.md` / `LISTE-COPRO-FINALE.md`) avec le Plan de maintien et Carnet d'entretien de MGB (`documents-audit-mgb/Plan de maintien et Carnet d'entretien.xlsx`).
 
 ---
 
